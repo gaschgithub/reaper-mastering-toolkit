@@ -12,7 +12,7 @@ This repository contains a research-oriented toolkit for **music mastering workf
 Mastering is treated here as a constrained and well-defined audio process:  
 the processing of a **single stereo signal** with the goal of achieving consistency across various playback contexts.
 
-The toolkit focuses on how **procedural decisions in mastering** can be formalized, inspected, and reproduced through code.
+The toolkit focuses on how **procedural decisions in mastering** can be formalized and reproduced through code.
 
 ---
 
