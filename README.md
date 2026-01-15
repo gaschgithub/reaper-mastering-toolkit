@@ -27,7 +27,7 @@ The tools in this repository are developed from my ongoing professional work as 
 
 The project is motivated by the question:
 
-> *Which aspects of mastering practice can be expressed as transparent, repeatable procedures, and which must remain perceptual and judgment-based?*
+> *Which aspects of mastering practice can be expressed as repeatable procedures, and which must remain perceptual and judgment-based?*
 
 ---
 
