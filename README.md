@@ -36,7 +36,8 @@ The project is motivated by the question:
 - **DAW:** REAPER
 - **Mastering Software:** Izotope Ozone 10
 - **Primary scripting language:** Lua (ReaScript API)  
-- **Analysis layer:** Python (called from Lua when needed)
+- **Analysis layer:** Python + Essentia for measurement (called from Lua when needed)
+- **Inspection and validation:** Sonic Visualiser
 
 ---
 
