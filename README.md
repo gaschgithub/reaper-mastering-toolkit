@@ -1,7 +1,7 @@
 # reaper-mastering-toolkit
 
 ⚠️ **Work in Progress (Practice-Based Research Toolkit)**  
-This repository documents an evolving set of tools developed through applied music mastering practice for singles and albums.  
+This repository documents an evolving set of tools developed through applied mastering practice for singles and albums.  
 
 ---
 
