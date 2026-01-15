@@ -20,10 +20,10 @@ The toolkit focuses on how **procedural decisions in mastering** can be formaliz
 
 The tools in this repository are developed from my ongoing professional work as a mastering engineer, addressing recurring tasks such as:
 
-- level normalization and gain staging,
-- spectral balance assessment,
-- multiband dynamics control heuristics,
-- quality-control checks,
+- level normalization and gain staging
+- spectral balance assessment
+- multiband dynamics control heuristics
+- quality-control
 
 The project is motivated by the question:
 
