@@ -1,6 +1,6 @@
 # reaper-mastering-toolkit
 
-###⚠️ **Work in Progress**
+### ⚠️ **Work in Progress**
 This repository documents an evolving set of tools developed through applied mastering practice for singles and albums.  
 
 ---
