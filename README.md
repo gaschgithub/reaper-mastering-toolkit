@@ -43,24 +43,24 @@ The project is motivated by the question:
 
 ## Design Principles
 
-- **Reproducibility**  
+- #### **Reproducibility**  
   Decisions are encoded procedurally rather than relying on plugin presets.
 
-- **Practice-driven development**
+- #### **Practice-driven development**
   Scripts are derived from real mastering sessions and refined through repeated use.
 
 ---
 
 ## Project Status
 
-**Status:** Work in Progress / Ongoing Development
+⚠️ Work in Progress
 
 This repository is not a finalized research artifact.  
-It reflects an active process of experimentation and refinement based on applied mastering work.
+It reflects an active process of experimentation based on applied mastering work.
 
 Changes include:
 - refactoring of scripts
 - addition/removal of tools
 - changes in Python–Lua interaction
 
-A stable snapshot may be tagged in the future if a consistent methodological state is reached.
+A stable snapshot will be tagged in the near future.
