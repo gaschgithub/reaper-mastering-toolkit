@@ -7,7 +7,7 @@ This repository documents an evolving set of tools developed through applied mas
 
 ## Overview
 
-This repository contains a research-oriented toolkit for **music mastering workflows**, implemented primarily within **REAPER** using **Lua scripting**, with optional calls to **Python-based analysis** from Lua.
+This repository contains a research-oriented toolkit for **music mastering workflows**, implemented primarily within **REAPER** using **Lua scripting**, with optional calls to **Essentia-based analysis in Python** from Lua.
 
 Mastering is treated here as a constrained and well-defined audio process:  
 the processing of a **single stereo signal** with the goal of achieving consistency across various playback contexts.
@@ -36,7 +36,7 @@ The project is motivated by the question:
 - **DAW:** REAPER
 - **Mastering Software:** Izotope Ozone 10
 - **Primary scripting language:** Lua (ReaScript API)  
-- **Analysis layer:** Python + Essentia for measurement (called from Lua when needed)
+- **Analysis layer:** Python + Essentia for measurement (called from Lua)
 - **Inspection and validation:** Sonic Visualiser
 
 ---
