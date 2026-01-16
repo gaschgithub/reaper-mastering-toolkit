@@ -64,3 +64,10 @@ Changes include:
 - changes in Python–Lua interaction
 
 A stable snapshot will be tagged in the near future.
+
+## Intended Audience
+
+This repository is intended for:
+- researchers and students interested in **practice-based tool development** for audio production
+- musicians interested in procedural approaches to mastering
+- reviewers evaluating research portfolios
