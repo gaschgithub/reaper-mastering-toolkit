@@ -62,6 +62,7 @@ Changes include:
 - refactoring of scripts
 - addition/removal of tools
 - changes in Python–Lua interaction
+- reorganization of the folder structure
 
 A stable snapshot will be tagged in the near future.
 
