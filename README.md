@@ -57,7 +57,7 @@ https://github.com/mat2021/CSPECTRA2021
 
 ---
 
-## Project Status
+## Status
 
 ⚠️ Work in Progress
 
@@ -72,7 +72,7 @@ Changes include:
 
 A stable snapshot will be tagged in the near future.
 
-## Intended Audience
+## Audience
 
 This repository is intended for:
 - researchers and students interested in **practice-based tool development** for audio production
