@@ -31,13 +31,20 @@ The project is motivated by the question:
 
 ---
 
-## Requirements
+## Tools
 
 - **DAW:** REAPER
 - **Mastering Software:** Izotope Ozone 10
 - **Primary scripting language:** Lua (ReaScript API)  
 - **Analysis layer:** Python + Essentia for measurement (called from Lua)
 - **Inspection and validation:** Sonic Visualiser
+
+## Related Work
+
+This project is informed by previous research on spectral similarity analysis, **CSpectra2021**, which explores the comparison of audio signals using spectral descriptors in REAPER-based workflows.
+
+Reference repository:
+https://github.com/mat2021/CSPECTRA2021
 
 ---
 
